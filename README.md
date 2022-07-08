@@ -14,7 +14,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-The theme which displays the current time based on the timezone configured in the site using the custom module Timezone
+The theme which displays the current time based on the timezone configured in the site using the custom module custom_timezone
 
 REQUIREMENTS
 ------------
